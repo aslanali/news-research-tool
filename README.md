@@ -1,6 +1,8 @@
 # News Research Tool 📈
 A Streamlit-based tool for researching news articles, extracting named entities (NER), and querying information using embeddings.
 
+![Image description](researchtool.gif)
+
 ## Features
 - Process a news article URL and extract Named Entities (people, organizations, etc.).
 - Store embeddings in FAISS for efficient retrieval.
